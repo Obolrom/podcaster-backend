@@ -1,0 +1,1 @@
+rootProject.name = "io.romix.podcaster-backend"
